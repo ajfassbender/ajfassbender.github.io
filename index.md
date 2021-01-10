@@ -11,7 +11,7 @@
 
 **Research Physical Scientist, NOAA Pacific Marine Environmental Laboratory**
 
-[CV](https://ajfassbender.github.io/content/1_9_2020_CV_for_GitHub.pdf)
+[CV](https://ajfassbender.github.io/content/GitHub_CV.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?user=CDXvxE8AAAAJ&hl=en&oi=ao)
 
