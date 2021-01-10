@@ -26,6 +26,9 @@ Leading PMEL's Biogeochemical [Argo effort](https://www.arcgis.com/apps/Cascade/
 Our projects range from regional to global in scale and we work to incorporate a variety of observational tools (e.g., remote and in situ sensing and synthesis products) and model output to understand ocean carbon cycle processes. 
 
 ## Lab Members
+**Research Technicians:** 
+- [Jacki Long](https://www.mbari.org/long-jacki/) (2018 - present, MBARI)
+
 **Postdoctoral Scholars:** 
 - Yibin Huang (2020 - present, UCSC)
 - Jonathan Sharp (2020 - present, CICOES)
@@ -34,9 +37,6 @@ Our projects range from regional to global in scale and we work to incorporate a
 
 **Graduate Students:** 
 - Mar Arroyo (2020 - present, UCSC) 
-
-**Research Technicians:** 
-- [Jacki Long](https://www.mbari.org/long-jacki/) (2018 - present, MBARI)
 
 **Summer Interns:** 
 - Addie Norgaard (2020)
