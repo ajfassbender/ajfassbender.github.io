@@ -28,6 +28,7 @@ Our projects range from regional to global in scale and we work to incorporate a
 ## Lab Members
 **Research Technicians:** 
 - [Jacki Long](https://www.mbari.org/long-jacki/) (2018 - present, MBARI)
+- Marguerite Blum (2017 - 2020, MBARI)
 
 **Postdoctoral Scholars:** 
 - Yibin Huang (2020 - present, UCSC)
