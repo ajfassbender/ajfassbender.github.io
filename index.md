@@ -32,7 +32,7 @@ Our projects range from regional to global in scale and we work to incorporate a
 
 **Postdoctoral Scholars:** 
 - Yibin Huang (2020 - present, UCSC)
-- Jonathan Sharp (2020 - present, CICOES)
+- [Jonathan Sharp](https://www.pmel.noaa.gov/people/dr-jonathan-sharp) (2020 - present, CICOES)
 - [Magdalena Carranza](https://www.mbari.org/carranza-magdalena/) (2020, MBARI)
 - [William Haskell](https://williamzhaskell.com/about/) (2018 - 2019, MBARI)
 
