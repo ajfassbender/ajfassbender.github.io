@@ -16,14 +16,12 @@
 [Google Scholar](https://scholar.google.com/citations?user=CDXvxE8AAAAJ&hl=en&oi=ao)
 
 ## Research
-Leading PMEL's Biogeochemical [Argo effort](https://www.arcgis.com/apps/Cascade/index.html?appid=a170a0d522bb42f1a019e4e473cf1bdd) as part of the interdisciplinary [GO-BOP Group](https://www.pmel.noaa.gov/lsop/), my team focuses on understanding marine carbon and biogeochemical cycles and the ocean’s role in global climate. Key research priorities include:
+Andrea Fassbender is a Scientist at NOAA’s Pacific Marine Environmental Laboratory (PMEL) studying marine carbon and biogeochemical cycles and the ocean’s role in global climate. She leads a team contributing to the international Biogeochemical [Argo effort](https://www.arcgis.com/apps/Cascade/index.html?appid=a170a0d522bb42f1a019e4e473cf1bdd) as part of the interdisciplinary PMEL [GO-BOP Group](https://www.pmel.noaa.gov/lsop/). Group projects range from regional to global in scale and leverage a combination of satellite, autonomous platform, and ship-based observing approaches as well as earth system model output. Key research priorities include:
 
 1. developing accurate, scalable methods to quantify the biological carbon pump from sensors on autonomous platforms and satellites
 2. characterizing the ocean carbon sink sensitivity to natural and anthropogenic carbon cycle interactions
 3. creating new tools for measuring long-term changes in ocean carbon chemistry
 4. exploring the impacts of ocean acidification on coastal and open-ocean ecosystems 
-
-Our projects range from regional to global in scale and we work to incorporate a variety of observational tools (e.g., remote and in situ sensing and synthesis products) and model output to understand ocean carbon cycle processes. 
 
 ## Lab Members
 **Research Technicians:** 
