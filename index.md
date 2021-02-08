@@ -29,7 +29,7 @@ Andrea Fassbender is a Scientist at NOAA’s Pacific Marine Environmental Labora
 - Marguerite Blum (2017 - 2020, MBARI)
 
 **Postdoctoral Scholars:** 
-- Yibin Huang (2020 - present, UCSC)
+- [Yibin Huang](https://hybxmu.wixsite.com/my-site) (2020 - present, UCSC)
 - [Jonathan Sharp](https://www.pmel.noaa.gov/people/dr-jonathan-sharp) (2020 - present, CICOES)
 - [Magdalena Carranza](https://www.mbari.org/carranza-magdalena/) (2020, MBARI)
 - [William Haskell](https://williamzhaskell.com/about/) (2018 - 2019, MBARI)
