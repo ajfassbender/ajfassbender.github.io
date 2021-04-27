@@ -24,6 +24,9 @@ Andrea Fassbender is a Scientist at NOAA’s Pacific Marine Environmental Labora
 4. exploring the impacts of ocean acidification on coastal and open-ocean ecosystems 
 
 ## Lab Members
+**Research Scientists:** 
+- [Hartmut Frenzel](http://jetsam.ocean.washington.edu/~frenzel/) (2021 - present, CICOES)
+
 **Research Technicians:** 
 - [Jacki Long](https://www.mbari.org/long-jacki/) (2018 - present, MBARI)
 - Marguerite Blum (2017 - 2020, MBARI)
@@ -38,10 +41,8 @@ Andrea Fassbender is a Scientist at NOAA’s Pacific Marine Environmental Labora
 - Mar Arroyo (2020 - present, UCSC) 
 
 **Summer Interns:** 
-- Addie Norgaard (2020)
-- Ally Morris (2020)
-- Bruno Lopez (2020)
-- [Nina Buzby](https://www.sfei.org/users/nina-buzby) (2018)
+- 2020: Bruno Lopez, Ally Morris, Addie Norgaard
+- 2018: [Nina Buzby](https://www.sfei.org/users/nina-buzby) 
 
 
 ## Contact
