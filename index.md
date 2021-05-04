@@ -15,6 +15,9 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=CDXvxE8AAAAJ&hl=en&oi=ao)
 
+## Job Opportunity
+I am currently seeking a **Postdoc** to join the team and work on a multi-institutional, NSF-funded project (up to 2.5 years) to evaluate carbon cycling in the North Atlantic Ocean using observations from biogeochemical profiling floats and satellites. A Ph.D. in chemical oceanography, a related field, or experience with biogeochemical profiling float data is required. Prior experience with chemical tracer budgets, research related to the biological carbon pump, or familiarity with profiling float and remote sensing data would be ideal. A start date within 2021 is preferable. Please contact me via email if you are interested.
+
 ## Research
 Andrea Fassbender is a Scientist at NOAA’s Pacific Marine Environmental Laboratory (PMEL) studying marine carbon and biogeochemical cycles and the ocean’s role in global climate. She leads a team contributing to the international Biogeochemical [Argo effort](https://www.arcgis.com/apps/Cascade/index.html?appid=a170a0d522bb42f1a019e4e473cf1bdd) as part of the interdisciplinary PMEL [GO-BOP Group](https://www.pmel.noaa.gov/lsop/). Group projects range from regional to global in scale and leverage a combination of satellite, autonomous platform, and ship-based observing approaches as well as earth system model output. Key research priorities include:
 
